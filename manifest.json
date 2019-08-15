@@ -1,0 +1,7 @@
+{
+  "name": "Typography",
+  "id": "741241511133749614",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
